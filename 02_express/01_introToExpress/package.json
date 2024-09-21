@@ -1,0 +1,16 @@
+{
+  "name": "01_introtoexpress",
+  "version": "1.0.0",
+  "main": "introToExpress.js",
+  "scripts": {
+    "start": "node introToExpress.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "url": "^0.11.4"
+  }
+}
