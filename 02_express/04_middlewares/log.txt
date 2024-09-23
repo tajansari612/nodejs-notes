@@ -1,0 +1,2 @@
+1727116808413: ::1 GET /api/users new req received
+1727116829160: ::1 GET /api/users/100 new req received
