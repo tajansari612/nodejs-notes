@@ -7998,21 +7998,5 @@
     "email": "cstreaderrr@bbb.org",
     "gender": "Female",
     "job_title": "Actuary"
-  },
-  {
-    "first_name": "Taj Mohammad",
-    "last_name": "Ansari",
-    "email": "tajansari612@gmail.com",
-    "gender": "Male",
-    "job_title": "Product Engineer",
-    "id": 1001
-  },
-  {
-    "first_name": "John",
-    "last_name": "Joe",
-    "email": "email.example@gmail.com",
-    "gender": "Male",
-    "job_title": "Software Dev",
-    "id": 1002
   }
 ]
