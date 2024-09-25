@@ -1,0 +1,10 @@
+1727116808413: ::1 GET /api/users new req received
+1727116829160: ::1 GET /api/users/100 new req received
+1727283696551: ::1 POST /api/users new req received
+1727283763945: ::1 POST /api/users new req received
+1727283777163: ::1 GET /api/users/1002 new req received
+1727284326807: ::1 POST /api/users new req received
+1727284557141: ::1 GET /api/users/1002 new req received
+1727284562148: ::1 GET /api/users/10029 new req received
+1727284662975: ::1 GET /api/users/10029 new req received
+1727284676172: ::1 GET /api/users/10029 new req received
